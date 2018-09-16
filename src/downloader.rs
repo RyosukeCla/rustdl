@@ -1,6 +1,5 @@
 extern crate hyper;
 extern crate hyper_tls;
-extern crate pbr;
 extern crate time;
 // use time::PreciseTime;
 use hyper::Client;
